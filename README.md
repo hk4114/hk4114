@@ -47,7 +47,7 @@
 
 <br/>
 
-#### :link: 联络方式
+## :link: 联络方式
 
 <p align="left">
   <a href="https://hk4114.github.io/my-blog/">
